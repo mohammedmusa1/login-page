@@ -18,4 +18,4 @@ Setup Instructions
 6. to run http://localhost/login-portal in your browser
 
 
-  ** Video.mp4 is the video dormat file of the project with workig
+  ** Video.mp4 is the video dormat file of the project with workig **
