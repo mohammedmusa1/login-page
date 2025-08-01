@@ -19,3 +19,5 @@ Setup Instructions
 
 
   ** Video.mp4 is the video dormat file of the project with workig **
+
+  You can download it by clicking download icon
